@@ -1,4 +1,4 @@
-module github.com/help-me-someone/scalable-p2-message-queue
+module github.com/help-me-someone/scalable-p2-tasks
 
 go 1.18
 
